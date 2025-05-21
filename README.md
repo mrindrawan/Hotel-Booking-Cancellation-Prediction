@@ -82,6 +82,6 @@ Model Machine Learning berhasil membantu hotel memprediksi pembatalan dengan leb
 
 Proyek ini telah dikembangkan menjadi aplikasi interaktif menggunakan **Streamlit** dan dapat langsung dicoba melalui link berikut:
 
-🔗 [Coba Aplikasinya di Sini]([https://your-streamlit-link.streamlit.app](https://hotel-booking-cancellation-prediction-ml.streamlit.app/))  
+🔗 [Coba Aplikasinya di Sini](https://hotel-booking-cancellation-prediction-ml.streamlit.app/)  
 
 
